@@ -1,4 +1,5 @@
-tokoonline
+tokoonline Resolusi
 - konsisten untuk menjual produk
 - membuat web untuk toko online Hikmah Production
 - mengembangkan produk HP
+- menambahkan produk baru
